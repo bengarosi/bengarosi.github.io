@@ -6,6 +6,16 @@
   _To win the game, eliminate all enemy Space Ships._
 
   _If an enemy ship or space rock collides with the ship you are controlling, you will lose one shield, if you have no shield remaining, the game will end._
+
+  _To begin the game, press the 'Space' key._
+
+## Controls:
+  _Move Left: A_
+  _Move Right: D_
+  _Move Up: W_
+  _Move Up: S_
+  _Shoot: Left Click_
+  _Close Game: Escape_
  
 
 
