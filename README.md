@@ -25,7 +25,7 @@
 ## Classes:
   _Shield Powerup:_
   
-  ![Image of Shield Powerup]()
+  ![Image of Shield Powerup](space_war/assets/images/Power-Ups/shield_gold.png)
  
 
 
