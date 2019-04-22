@@ -21,6 +21,11 @@
   _Shoot: Left Click_
 
   _Close Game: Escape_
+
+## Classes:
+  _Shield Powerup:_
+  
+  ![Image of Shield Powerup]()
  
 
 
