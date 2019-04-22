@@ -1,6 +1,7 @@
 # Galaxy Runner
+
 ## Description:
-  _Spacewar is a single player space shooter. Fly throughout the universe dodging space rocks and fighting Enemy Space Ships!_
+  _Spacewar is a single player space shooter. Fly throughout the universe dodging space rocks and fighting Enemy Space Ships! The ZIP file to download the game can be found here, 
 
 ## Instructions:
   _To win the game, eliminate all enemy Space Ships._
