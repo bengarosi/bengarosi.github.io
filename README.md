@@ -22,10 +22,11 @@
 
   _Close Game: Escape_
 
-## Classes:
-  _Shield Powerup:_
+## Credits:
+  _Sounds:_
+
+  _All music and sound effects can be found and are free to download at https://freesound.org/ 
   
-  ![Image of Shield Powerup](space_war/assets/images/Power-Ups/shield_gold.png)
  
 
 
