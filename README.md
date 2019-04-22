@@ -25,7 +25,11 @@
 ## Credits:
   _Sounds:_
 
-  _All music and sound effects can be found and are free to download at https://freesound.org/ _
+  All music and sound effects can be found and are free to download at https://freesound.org/ 
+  
+  _Images:_
+
+  All images used in this game can be found on https://opengameart.org/
   
  
 
