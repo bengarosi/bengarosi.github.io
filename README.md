@@ -11,10 +11,15 @@
 
 ## Controls:
   _Move Left: A_
+
   _Move Right: D_
+
   _Move Up: W_
+
   _Move Up: S_
+
   _Shoot: Left Click_
+
   _Close Game: Escape_
  
 
