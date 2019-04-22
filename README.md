@@ -25,7 +25,7 @@
 ## Credits:
   _Sounds:_
 
-  _All music and sound effects can be found and are free to download at https://freesound.org/ 
+  _All music and sound effects can be found and are free to download at https://freesound.org/ _
   
  
 
