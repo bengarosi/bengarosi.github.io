@@ -35,8 +35,8 @@
 ## Images:
   _Start Screen:_
   
-  ![start screen](https://bengarosi.github.com/space_war/assets/images/screenshots/ss1.png)
+  ![start screen](https://github.com/bengarosi/bengarosi.github.io/space_war/assets/images/screenshots/ss1.png)
 
   _In-Game:_
   
-  ![in game](https://bengarosi.github.com/space_war/assets/images/screenshots/ss2.png)
+  ![in game](https://github.com/bengarosi/bengarosi.github.io/space_war/assets/images/screenshots/ss2.png)
