@@ -39,4 +39,4 @@
 
   _In-Game:_
   
-  ![in game](/space_war/assets/images/screenshots/ss2.png)
+  ![in game](space_war/assets/images/Screenshots/ss2.png)
