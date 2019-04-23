@@ -35,7 +35,7 @@
 ## Images:
   _Start Screen:_
   
-  ![start screen](/space_war/assets/images/screenshots/ss1.png)
+  ![start screen](space_war/assets/images/Screenshots/ss1.png)
 
   _In-Game:_
   
