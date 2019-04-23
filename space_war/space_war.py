@@ -11,7 +11,7 @@ WIDTH = 1600
 HEIGHT = 900
 SIZE = (WIDTH, HEIGHT)
 TITLE = "Galaxy Runner"
-screen = pygame.display.set_mode(SIZE)
+screen = pygame.display.set_mode(SIZE, pygame.FULLSCREEN)
 pygame.display.set_caption(TITLE)
 
 # Timer
@@ -40,12 +40,8 @@ player_img = pygame.image.load('assets/images/player.png').convert_alpha()
 laser_img = pygame.image.load('assets/images/Lasers/laserBlue16.png').convert_alpha()
 enemy_img = pygame.image.load('assets/images/Enemies/enemyRed5.png').convert_alpha()
 bomb_img = pygame.image.load('assets/images/Meteors/meteorGrey_med2.png').convert_alpha()
-shield_img = pygame.image.load('assets/images/Effects/shield3.png').convert_alpha()
-button_img = pygame.image.load('assets/images/UI/buttonBlue.png').convert_alpha()
-star_img = pygame.image.load('assets/images/Effects/star2.png').convert_alpha()
 genemy_img = pygame.image.load('assets/images/Enemies/enemyGreen1.png').convert_alpha()
 benemy_img = pygame.image.load('assets/images/Enemies/enemyBlack4.png').convert_alpha()
-damage1_img = pygame.image.load('assets/images/Damage/playerShip2_damage3.png').convert_alpha()
 powerup1_img = pygame.image.load('assets/images/Power-ups/shield_gold.png').convert_alpha()
 powerup2_img = pygame.image.load('assets/images/Power-ups/bolt_gold.png').convert_alpha()
 powerup3_img = pygame.image.load('assets/images/Power-ups/star_gold.png').convert_alpha()
