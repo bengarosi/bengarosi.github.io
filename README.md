@@ -1,7 +1,7 @@
 # Galaxy Runner
 
 ## Description:
-  Spacewar is a single player space shooter. Fly throughout the universe dodging space rocks and fighting Enemy Space Ships! The ZIP file to download the game can be found here,  https://github.com/bengarosi/galaxy-runner/archive/master.zip
+  Spacewar is a single player space shooter. Fly throughout the universe dodging space rocks and fighting Enemy Space Ships! The ZIP file to download the game can be found here, [ZIP](https://github.com/bengarosi/galaxy-runner/archive/master.zip)
 
 ## Instructions:
   _To win the game, eliminate all enemy Space Ships._
@@ -35,8 +35,8 @@
 ## Images:
   _Start Screen:_
   
-  ![start screen](https://github.com/bengarosi/bengarosi.github.io/space_war/assets/images/screenshots/ss1.png)
+  ![start screen](/space_war/assets/images/screenshots/ss1.png)
 
   _In-Game:_
   
-  ![in game](https://github.com/bengarosi/bengarosi.github.io/space_war/assets/images/screenshots/ss2.png)
+  ![in game](/space_war/assets/images/screenshots/ss2.png)
